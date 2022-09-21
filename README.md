@@ -1,7 +1,7 @@
 # Hello! Welcome to my Github profile.
 
 - My nam is Lucas Vinícius Bratilher Leite
-- I study International Relations 4/8 
+- I study International Relations 5/8 
 - I'm interested in programming, maybe Dev Back-end
 - I live in Santa Catarina, Brazil
 
